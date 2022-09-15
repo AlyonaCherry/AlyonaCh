@@ -11,7 +11,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
    
   
    <a href="www.linkedin.com/in/alyona-holubieva-373724212">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+       <img src="https://img.shields.io/badge/linkedin-%373724212.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
      
 
    </a>
