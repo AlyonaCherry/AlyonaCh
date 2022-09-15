@@ -9,10 +9,9 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
    <a href="https://github.com/alyonacherry/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyonacherry&layout=compact"/>
    
-     <p align='center'>
+  
    <a href="https://www.linkedin.com/in/alyonacherry/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a> 
       <a href="www.linkedin.com/in/alyona-holubieva-373724212">
 
    </a>
