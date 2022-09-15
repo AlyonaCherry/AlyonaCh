@@ -7,13 +7,12 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
            height=150
            src="https://github-readme-stats.vercel.app/api?username=alyonacherry&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/alyonacherry/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyonacherry&layout=compact"/>
-   
-  
-   <a href="www.linkedin.com/in/alyona-holubieva-373724212">
-       <img src="https://img.shields.io/badge/linkedin-%373724212.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-     
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyonacherry&layout=compact"/></a>
+</p>
 
+<p align='center'>
+   <a href="https://www.linkedin.com/in/alyonacherry/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:aholubieva@gmail.com'>aholubieva@gmail.com</a>
