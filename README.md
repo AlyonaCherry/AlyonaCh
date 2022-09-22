@@ -39,10 +39,8 @@ In general worked with SAP BOARD, Google Data Studio, Power BI in front and MySQ
 *   Excel strong
 *   ETL/ELT by SQL, DAX, SAP
 
-🔭 I’m currently working on :
-   <div align="center" style="margin: 40px 0">
-                              Dashboard (Google Data Studio) to analysis changes the sales and purchase prices
-                              in relation to each other and among themselves in the period
+🔭 I’m currently working on Dashboard (Google Data Studio) to analysis changes the sales and purchase prices
+   in relation to each other and among themselves in the period
                               
 🌱 I’m currently learning Python 
 
