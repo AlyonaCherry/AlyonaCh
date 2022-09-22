@@ -37,8 +37,14 @@ In general worked with SAP BOARD, Google Data Studio, Power BI in front and MySQ
 *   Google Bucket
 *   GitHub, GitLab, Jira, Service-now, GinaMail
 *   Excel strong
-*   ETL/ELT 
-### 
+*   ETL/ELT by SQL, DAX, SAP
+
+🔭 I’m currently working on :
+   <div align="center" style="margin: 40px 0">
+                              Dashboard (Google Data Studio) to analysis changes the sales and purchase prices
+                              in relation to each other and among themselves in the period
+                              
+🌱 I’m currently learning Python 
 
 
 <div align="center" style="margin: 40px 0">
