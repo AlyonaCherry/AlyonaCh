@@ -21,20 +21,23 @@ In general worked with SAP BOARD, Google Data Studio, Power BI in front and MySQ
 
 
 ### Key points
-*   creator of 
-*   
-*   Write posts about software development.
+
+*   supporting, changing, checking for more than 200 reports and creating 10reports in SAP BOARD, 
+    based on Free hand SQL connections, Universis (TeraData and MS SQL sources)
+*   creating full life cycle for 11 dashboard from scrach in Google Data Studio based on BigQuery
+*   creating from scrach 3 reports on Power BI, based on MySQL 
+*   Creater from scrach process for update sales prices on scales (Bizerba) by Python script, use BigQuery, Google Bucket, Task Scheduler
+*   Creater workspase group to communicate with colleguas abots news and best practice to use BI tool and reports in company.
 *   Currently working in [Leroy Merlin](https://www.linkedin.com/company/leroy-merlin/)
 
 ## 🛠 Technical Stack
 *   SAP BusinessObjects BI Platform, Power BI, Google Data Studio  
 *   MySQL, PostgreSQL, BigQuery, MS SQL, 
-*   Python (junior), SQL, DAX
+*   Python (junior), SQL (middle level), DAX
 *   Google Bucket
 *   GitHub, GitLab, Jira, Service-now, GinaMail
 *   Excel strong
-
-
+*   ETL/ELT by SQL
 ### 
 
 
