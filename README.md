@@ -21,17 +21,19 @@ In general worked with SAP BOARD, Google Data Studio, Power BI in front and MySQ
 
 
 ### Key points
-*   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
+*   creator of 
+*   
 *   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+*   Currently working in [Leroy Merlin](https://www.linkedin.com/company/leroy-merlin/)
 
 ## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
-*   GitHub/GitLab/Gerrit/Bitbucket
+*   SAP BusinessObjects BI Platform, Power BI, Google Data Studio  
+*   MySQL, PostgreSQL, BigQuery, MS SQL, 
+*   Python (junior), SQL, DAX
+*   Google Bucket
+*   GitHub,GitLab,Jira,Service-now,
+*   Excel
+
 
 ### My opensource projects
 
