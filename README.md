@@ -37,7 +37,7 @@ In general worked with SAP BOARD, Google Data Studio, Power BI in front and MySQ
 *   Google Bucket
 *   GitHub, GitLab, Jira, Service-now, GinaMail
 *   Excel strong
-*   ETL/ELT by SQL
+*   ETL/ELT 
 ### 
 
 
