@@ -23,7 +23,7 @@ In general worked with SAP BOARD, Google Data Studio, Power BI in front and MySQ
 ### Key points
 
 *   supporting, changing, checking for more than 200 reports and creating 10reports in SAP BOARD, 
-    based on Free hand SQL connections, Universis (TeraData and MS SQL sources)
+    based on Free hand SQL connections, Universes (TeraData and MS SQL sources)
 *   creating full life cycle for 11 dashboard from scrach in Google Data Studio based on BigQuery
 *   creating from scrach 3 reports on Power BI, based on MySQL 
 *   Creater from scrach process for update sales prices on scales (Bizerba) by Python script, use BigQuery, Google Bucket, Task Scheduler
@@ -37,7 +37,7 @@ In general worked with SAP BOARD, Google Data Studio, Power BI in front and MySQ
 *   Google Bucket
 *   GitHub, GitLab, Jira, Service-now, GinaMail
 *   Excel strong
-*   ETL/ELT by SQL, DAX, SAP
+*   ETL/ELT by SQL, DAX, SAP, SSIS
 
 🔭 I’m currently working on Dashboard (Google Data Studio) to analysis changes the sales and purchase prices
    in relation to each other and among themselves in the period
