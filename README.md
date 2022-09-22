@@ -11,7 +11,7 @@ In general worked with SAP BOARD, Google Data Studio, Power BI in front and MySQ
 </p>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/alyona-holubieva-373724212//">
+   <a href="https://www.linkedin.com/in/alyona-holubieva-373724212/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 <p align='center'>
