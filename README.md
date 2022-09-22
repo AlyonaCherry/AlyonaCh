@@ -1,6 +1,6 @@
 ### Hi there 👋
-Middle BI developer with more than 3 years of commertial experience. I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
+Middle BI developer with more than 3 years of professional experience delivering BI reports and dashboards.
+In general worked with SAP BOARD, Google Data Studio, Power BI in front and MySQL, Google Cloud Platform,Big Query, TeraData. 
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=alyonacherry&show_icons=true&count_private=true"><img
@@ -11,12 +11,13 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 </p>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/alyonacherry/">
+   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/alyona-holubieva-373724212//">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:aholubieva@gmail.com'>aholubieva@gmail.com</a>
 </p>
+
 
 
 ### Key points
