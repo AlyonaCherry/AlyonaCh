@@ -3,11 +3,10 @@ BI developer with more than 3 years of professional experience delivering BI rep
 In general worked with SAP BOARD, Google Data Studio, Power BI in front and MySQL, Google Cloud Platform, Big Query. 
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=alyonacherry&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=alyonacherry&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/alyonacherry/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyonacherry&layout=compact"/></a>                                                                 </a>
+   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/romankh3/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
 </p>
 
 <p align='center'>
