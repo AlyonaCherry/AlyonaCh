@@ -1,5 +1,5 @@
 ### Hi there 👋
-Middle BI developer with more than 3 years of professional experience delivering BI reports and dashboards.
+BI developer with more than 3 years of professional experience delivering BI reports and dashboards.
 In general worked with SAP BOARD, Google Data Studio, Power BI in front and MySQL, Google Cloud Platform, Big Query. 
 
 <p align='center'>
