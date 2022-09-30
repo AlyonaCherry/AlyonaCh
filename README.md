@@ -2,12 +2,6 @@
 BI developer with more than 3 years of professional experience delivering BI reports and dashboards.
 In general worked with SAP BOARD, Google Data Studio, Power BI in front and MySQL, Google Cloud Platform, Big Query. 
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=AlyonaCherry&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=AlyonaCherry&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/AlyonaCherry/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyonaCherry&layout=compact"/></a>
-</p>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/alyona-holubieva-373724212/">
