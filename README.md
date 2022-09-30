@@ -6,8 +6,14 @@ In general worked with SAP BOARD, Google Data Studio, Power BI in front and MySQ
    <a href="https://github-readme-stats.vercel.app/api?username=alyonacherry&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=alyonacherry&show_icons=true&count_private=true"/></a>
+   
    <a href="https://github.com/alyonacherry/github-readme-stats"><img height=150
-                                                                 </a>
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=alyonacherry&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=alyonacherry&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/alyonacherry/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyonacherry&layout=compact"/></a>                                                                 </a>
 </p>
 
 <p align='center'>
